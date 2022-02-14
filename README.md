@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Purpl3Dev.
+- 👋 Hi, I’m @Purpl3.
 - 👀 I’m interested in vulnerability tool and development.
 - 🌱 I’m currently learning for cisco certification.
 - 💞️ I’m looking to collaborate with other developers
